@@ -1,0 +1,4 @@
+classrepo
+=========
+
+Small test repo
